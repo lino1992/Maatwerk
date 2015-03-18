@@ -32,6 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -44,7 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\CleaningJob.cs" />
+    <Compile Include="Classes\DatabaseConnection.cs" />
+    <Compile Include="Classes\Job.cs" />
     <Compile Include="Classes\Rail.cs" />
+    <Compile Include="Classes\Remise.cs" />
+    <Compile Include="Classes\RepairJob.cs" />
     <Compile Include="Classes\Section.cs" />
     <Compile Include="Classes\Train.cs" />
     <Compile Include="Classes\User.cs" />
@@ -64,6 +70,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
