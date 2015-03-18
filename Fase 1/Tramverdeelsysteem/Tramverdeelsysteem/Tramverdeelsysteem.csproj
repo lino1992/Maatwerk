@@ -44,7 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\CleaningJob.cs" />
+    <Compile Include="Classes\DatabaseConnection.cs" />
+    <Compile Include="Classes\Job.cs" />
     <Compile Include="Classes\Rail.cs" />
+    <Compile Include="Classes\Remise.cs" />
+    <Compile Include="Classes\RepairJob.cs" />
     <Compile Include="Classes\Section.cs" />
     <Compile Include="Classes\Train.cs" />
     <Compile Include="Classes\User.cs" />
