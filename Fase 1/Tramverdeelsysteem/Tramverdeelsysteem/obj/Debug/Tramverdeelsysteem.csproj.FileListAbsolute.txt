@@ -8,3 +8,6 @@ C:\Users\ruthgervandeneikhof\Programma's\Maatwerk\Fase 1\Tramverdeelsysteem\Tram
 C:\Users\ruthgervandeneikhof\Programma's\Maatwerk\Fase 1\Tramverdeelsysteem\Tramverdeelsysteem\obj\Debug\Tramverdeelsysteem.exe
 C:\Users\ruthgervandeneikhof\Programma's\Maatwerk\Fase 1\Tramverdeelsysteem\Tramverdeelsysteem\obj\Debug\Tramverdeelsysteem.pdb
 C:\Users\ruthgervandeneikhof\Programma's\Maatwerk\Fase 1\Tramverdeelsysteem\Tramverdeelsysteem\obj\Debug\Tramverdeelsysteem.Form1.resources
+C:\Users\lino\Documents\GitHub\Maatwerk\Fase 1\Tramverdeelsysteem\Tramverdeelsysteem\bin\Debug\Tramverdeelsysteem.exe.config
+C:\Users\lino\Documents\GitHub\Maatwerk\Fase 1\Tramverdeelsysteem\Tramverdeelsysteem\obj\Debug\Tramverdeelsysteem.exe
+C:\Users\lino\Documents\GitHub\Maatwerk\Fase 1\Tramverdeelsysteem\Tramverdeelsysteem\obj\Debug\Tramverdeelsysteem.pdb
