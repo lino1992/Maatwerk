@@ -7,3 +7,4 @@ C:\Users\ruthgervandeneikhof\Programma's\Maatwerk\Fase 1\Tramverdeelsysteem\Tram
 C:\Users\ruthgervandeneikhof\Programma's\Maatwerk\Fase 1\Tramverdeelsysteem\Tramverdeelsysteem\obj\Debug\Tramverdeelsysteem.csproj.GenerateResource.Cache
 C:\Users\ruthgervandeneikhof\Programma's\Maatwerk\Fase 1\Tramverdeelsysteem\Tramverdeelsysteem\obj\Debug\Tramverdeelsysteem.exe
 C:\Users\ruthgervandeneikhof\Programma's\Maatwerk\Fase 1\Tramverdeelsysteem\Tramverdeelsysteem\obj\Debug\Tramverdeelsysteem.pdb
+C:\Users\ruthgervandeneikhof\Programma's\Maatwerk\Fase 1\Tramverdeelsysteem\Tramverdeelsysteem\obj\Debug\Tramverdeelsysteem.Form1.resources

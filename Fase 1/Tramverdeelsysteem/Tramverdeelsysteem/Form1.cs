@@ -15,6 +15,9 @@ namespace Tramverdeelsysteem
         public Form1()
         {
             InitializeComponent();
+            this.tabControl1.Appearance = TabAppearance.FlatButtons;
+            this.tabControl1.ItemSize = new Size(0, 1);
+            this.tabControl1.SizeMode = TabSizeMode.Fixed;
         }
     }
 }
